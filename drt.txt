@@ -84,18 +84,18 @@
             }
         },
         "Sigesit": {
-            "Toggle": "OFF",
+            "Toggle": "ON",
             "Profit Reset": "0.0000001",
-            "Cut Lose": "15",
-            "Preroll": "30",
+            "Cut Lose": "9",
+            "Preroll": "12",
             "Multipler": "1.3",
             "Chance Win": {
                 "Min": "50",
                 "Max": "94.0"
             },
             "Chance Lose": {
-                "Min": "11",
-                "Max": "33"
+                "Min": "5",
+                "Max": "20"
             }
         },
         "Marti": {
@@ -229,7 +229,7 @@
             "Reset if Profit": "0.00005"
         },
         "JumpJack": {
-            "Toggle": "ON",
+            "Toggle": "OFF",
             "Reset Jump if Profit": "200",
             "Reset Jump if Win": "0",
             "Continuous Bet": "False",
