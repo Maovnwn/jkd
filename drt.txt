@@ -86,16 +86,16 @@
         "Sigesit": {
             "Toggle": "ON",
             "Profit Reset": "0.0000001",
-            "Cut Lose": "6",
-            "Preroll": "5",
-            "Multipler": "2.23",
+            "Cut Lose": "3",
+            "Preroll": "6",
+            "Multipler": "1.8",
             "Chance Win": {
-                "Min": "66",
+                "Min": "60",
                 "Max": "94.0"
             },
             "Chance Lose": {
-                "Min": "30",
-                "Max": "47"
+                "Min": "5",
+                "Max": "45"
             }
         },
         "Marti": {
