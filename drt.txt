@@ -88,14 +88,14 @@
             "Profit Reset": "0.0000001",
             "Cut Lose": "6",
             "Preroll": "3",
-            "Multipler": "1.8",
+            "Multipler": "1.3",
             "Chance Win": {
                 "Min": "60",
                 "Max": "94.0"
             },
             "Chance Lose": {
                 "Min": "5",
-                "Max": "45"
+                "Max": "35"
             }
         },
         "Marti": {
