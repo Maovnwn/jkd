@@ -19,13 +19,13 @@
     },
     "Stopwin": {
         "On Profit": "True",
-        "If Maxbet": "0",
+        "If Maxbet": "20",
         "If Balance Drop (%)": "0",
         "After LS": "0"
     },
     "Repeat Play": {
-        "Status": "OFF",
-        "Delay (sec)": "18"
+        "Status": "ON",
+        "Delay (sec)": "65"
     },
     "Auto WD": {
         "Status": "OFF",
